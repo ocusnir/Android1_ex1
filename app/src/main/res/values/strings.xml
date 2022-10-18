@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android1_ex1</string>
+    <string name="switch_btn">Switch_Button</string>
+    <string name="btn">Button</string>
+</resources>
